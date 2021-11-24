@@ -8,9 +8,9 @@ Blog de ejemplo para le curso de Git y Github de platzi
 >Yo merengues
 
 En este curso se ve de todo:
-*Todos los comando de Git.
-*El flujo de trabajo de Github
-*Buenas prácticas.
-*Trucos muy locos.
+* Todos los comando de Git.
+* El flujo de trabajo de Github
+* Buenas prácticas.
+* Trucos muy locos.
 
 Este Readme es solo una pequeña practica, **no te lo tomes enserio**.
